@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int D;
+signed int D;
 scanf("%d",&D);
 if(D%2==0)
 printf("Even");
